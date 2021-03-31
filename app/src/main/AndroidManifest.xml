@@ -25,7 +25,7 @@
         <activity android:name=".activity.Masuk" />
         <activity android:name=".activity.Register"/>
         <activity android:name=".activity.Login"/>
-
+        <activity android:name=".activity.DetailProduk"/>
 
 
     </application>

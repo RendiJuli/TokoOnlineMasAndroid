@@ -13,7 +13,6 @@ import com.ucoweb.tokoonline.helper.SharedPref
 import com.ucoweb.tokoonline.model.ResponModel
 import kotlinx.android.synthetic.main.activity_login.*
 import kotlinx.android.synthetic.main.activity_login.btn_login
-import kotlinx.android.synthetic.main.activity_masuk.*
 import kotlinx.android.synthetic.main.activity_register.*
 import retrofit2.Call
 import retrofit2.Callback
